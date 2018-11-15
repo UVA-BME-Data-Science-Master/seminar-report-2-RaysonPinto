@@ -1,0 +1,45 @@
+---
+title: "Seminar Report 2"
+author: "Rayson Pinto"
+date: "November 14, 2018"
+output: html_document
+---
+**Name**:Rayson Pinto  
+**Seminar** Speaker's Name: Ali D. Guler 
+**Seminar Speaker's Title**: Dr.  
+**Seminar Speaker's Affiliation**: Department of Biology, University of Virginia  
+**Date**:Wednesday, November 7th 2018  
+**Time**:1.00 PM  
+**Seminar Title** :Food, time and dopamine: How rewarding snacks hijack your brain 
+
+**Seminar Summary:**  
+Overarching Research Topic:
+  -The overarching research topic is neurological-pathways and the effects of food , time, and dopamine. 
+  
+**Research Question:**  
+  -Investigated pathways related to the SCN that causes hunger / eating habits. These pathways could be dependent on food, time, and dopamine. 
+  
+**Methods:**  
+  - Testing in mice to determine activation of eating patterns of mice with / without modifications ( iipRGC ablated)
+**General Notes:**  
+-Earth's rotation on its axis creates two distinct niches. Intrinsically photosensitive retinal ganglion cells are the sole conduits for photoentrainment. SCN responsible for circadian system. Light information sent into SCN, group of neurons change activity across the day (higher rate during day and lower rate during night).Rods and Cones to RGC project neurons that go to the brain. Send projections to SCN.SCN receives non photic information regarding environmental events.Dopamine neurons respond to salient events and tells you something important is happening. Forces you to pay attention, mostly rewarding events Elevation of dopamine increases SCN neuron activity. Capsaicin induced dopamine release (DAT-TRPV1)Mouses injected with capsaicin react hyper.  C-fos increases due to more active neurons.Dopamine receptor Drd1 is expressed in the SCN.Activation of Drd1-SCN neurons mimic the phase response to light.Delivered drug CNO during the night phase. Animals will begin shifting their activity. Delivering drug CNO during light phase had no effect. What does Drd1 do in the SCN? It causes jet lag.If the animal doesn't have Drd1 the animal is much slower to shift their cycles. CTA-DA neuron activation hastens photoentertainment.  Expression of Drd1 in SCN is sufficient to revert Drd1-KO photoentrainment phenotype.  Allows us to see if expression is sufficient. VTA sends dopaminergic projections to the SCN.  Sent retrobeads into the SCN. Obesity epidemic fueled by excess caloric intake.  Hedonic overeating (eating for pleasure) or homeostatic dysregulation (eating for need) cause obesity .  Homeostatic dysregulation causes inc food desire which causes hedonic overeating and then causes metabolic disorganization.  Homeostatic food consumption: hypothalamus.  How does dopamine regulate rewarding food consumption? Rewarding food foraging leads to DA-neurons being activated.  Rewarding food foraging also leads to an increase in body weight.  Drd1-KO mice are resistant to diet induced obesity.  Don't have dopamine induced characteristics.  Prevents mice from eating during the day (which is when they shouldn't be eating).  Time restricted feeding without reducing caloric intake preent metabolic diseases in mice fed a high-fat diet.  Which dopamine pathways regulate foraging during inactive period. Increased SCN-Drd1 signaling leads to hedonic overeating.  SCN-Drd1 neurons inhibit activity of other SCN neurons.  It rewards food foraging.
+
+  
+**Experimental Design:**  
+- Drd1-KO mice were compared to mice with Drd1. It was found that Drd-1KO mice were resistant to obesity because they didn't have dopamine induced characteristics.  It prevented them from eating during the day.  The behavior of the mice were observed at all times of day. 
+  
+**Is the research relevant to your project?:**  
+  - The research is not relevant to my project. 
+  
+**Question 1 addressed towards speaker:**  
+  - Are other characteristics excluding dopamine responsible for the hunger present in mice and how were they acounted for?
+  
+**Question 2 addresssed towards speaker:**  
+  - What statistical analysis was done on the results to prove that they are significant? 
+  
+**Take-home:**  
+  - Dopamine pathways regulate food consumption in mice.  SCN-Drd1 neurons are largely responsible for this.  If the dopamine response is controlled, it can prevent overating and obesity. 
+  
+**Closing Statement:**  
+
+- This seminar exposed me to new knowledge with respects to the SCN, dopamine, and neurological pathways. I was able to comprehend a decent amount of knowledge based off my biomedical background and knowledge of basic experimental design and dopamine/ receptors as well as the SCN.  I was able to expand my knowledge on the brain and neuroscience dependency on dopamine through attending this lecture.  Dr. Guler was an excellent presenter and I'm grateful that I had the opportunity to attend this seminar. 
